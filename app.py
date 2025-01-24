@@ -12,7 +12,6 @@ import altair as alt
 import numpy as np
 import pandas as pd
 import streamlit as st
-import altair
 from altair.vegalite.v4.api import value
 from dotenv import load_dotenv
 from pandas.tseries.offsets import MonthEnd
