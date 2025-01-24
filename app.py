@@ -12,7 +12,7 @@ import altair as alt
 import numpy as np
 import pandas as pd
 import streamlit as st
-from alt.vegalite.v4.api import value
+from altair.vegalite.v4.api import value
 from dotenv import load_dotenv
 from pandas.tseries.offsets import MonthEnd
 from pymongo import MongoClient
